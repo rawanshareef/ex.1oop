@@ -42,7 +42,7 @@ number of vertex in the graph.
 -**mc:**
 count of the changes. 
 
-_**the fanctiones:**_
+_**the fanctions:**_
 
 - **WGraph_DS ():**
 creating a new graph
@@ -85,7 +85,7 @@ it return how much  changes was in the graph.
 **WGraph_Algo:**
 _The Graph Algo class contains all algorithms that can be run on a graph._
 
-_**the fanctiones:**_
+_**the fanctions:**_
 
 - **Init:** Allows to insert a graph into the Graph Algo class so that we can run algorithms on it.
 - **getGraph():** Return the underlying graph of which this class works.
